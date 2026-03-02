@@ -1,0 +1,2 @@
+# AIxPravo
+AIxPravo hackathlon 
